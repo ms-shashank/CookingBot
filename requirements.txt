@@ -1,0 +1,6 @@
+sentence-transformers
+langchain
+streamlit
+ctransformers
+torch
+replicate
